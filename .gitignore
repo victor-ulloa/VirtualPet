@@ -1,0 +1,78 @@
+# Unreal Engine specific
+Saved/
+Intermediate/
+DerivedDataCache/
+.vscode/
+.idea/
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+*.app
+*.log
+*.obj
+*.pdb
+*.idb
+*.suo
+*.sln
+*.sdf
+*.opensdf
+*.VC.db
+
+# Build products
+Binaries/
+Build/
+
+# Configuration files
+*.csproj
+*.user
+*.userprefs
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+*.xcodeproj
+*.xcworkspace
+*.xcscheme
+*.xcuserdata
+
+# Plugin-specific
+Plugins/Developer/
+Plugins/Editor/
+
+# iOS-specific
+*.ipa
+*.xcuserstate
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.DS_Store
+*.swp
+Pods/
+
+# Android-specific
+*.apk
+*.aab
+*.cproject
+*.classpath
+*.project
+local.properties
+.gradle/
+.gradle
+*.iml
+
+# AR SDKs
+Plugins/AR/Intermediate/
+Plugins/AR/Saved/
+
+# Temporary files
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+*.swp
+*.lock
+
+# Environment-specific
+*.env
